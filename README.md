@@ -24,7 +24,7 @@
 ### Algorithm
 - [ ] [xiao-algorithm](https://github.com/githubao/xiao-algorithm)  (《妙趣横生的算法-C语言实现》源码)
 - [ ] [learn-c-220-examples](https://github.com/githubao/learn-c-220-examples)  (《C语言220实例书籍》源码)
-- [ ] [learn-algorithm](https://github.com/githubao/learn-algorithm)  (一些经典算法的pytohn实现，克隆的别人的工程)
+- [ ] [learn-algorithm](https://github.com/githubao/learn-algorithm)  (一些经典算法的python实现，克隆的别人的工程)
 
 ### Other Language
 - [ ] [head-in-js](https://github.com/githubao/head-in-js)  (javascript，学习js的基本语法)
