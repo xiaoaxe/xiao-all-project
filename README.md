@@ -6,7 +6,7 @@
 - [x] [xiao-awesome-ml](https://github.com/githubao/xiao-awesome-ml)  (所有机器学习相关)
 - [x] [xiao-recommend](https://github.com/githubao/xiao-recommend)  (推荐系统入门，一些简单的推荐系统的实现)
 - [x] [xiao-tf-neuralstyle](https://github.com/githubao/xiao-tf-neuralstyle)  (使用神经网络结合内容和风格生成第三张图片)
-- [ ] [xiao-python-chatbot](https://github.com/githubao/xiao-python-chatbot)  (用Python实现一个聊天机器人)
+- [x] [xiao-python-chatbot](https://github.com/githubao/xiao-python-chatbot)  (用Python实现一个聊天机器人)
 
 ## Python Project
 
