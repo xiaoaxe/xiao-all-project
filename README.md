@@ -27,9 +27,10 @@
 - [x] [xiao-async](https://github.com/githubao/xiao-async)  (python async await 学习)
 - [x] [xiao-python-util](https://github.com/githubao/xiao-python-util)  (Python语言工具类)
 
-## Java
+## Java Language
 
-- [ ] [xiao-head-spark](https://github.com/githubao/xiao-head-spark)  (java8 与 大数据 尝试)
+- [ ] [xiao-head-spark](https://github.com/githubao/xiao-head-spark)  (java8与大数据尝试)
+- [ ] [xiao-java-concurrent](https://github.com/githubao/xiao-java-concurrent)  (java并发实现)
 - [x] [xiao-java-designs](https://github.com/githubao/xiao-java-designs)  (23种设计模式学习，《head first design patterns》源码)
 - [x] [xiao-java-chatbot](https://github.com/githubao/xiao-java-chatbot)  (lucene 实现的简版聊天机器人)
 - [ ] [xiao-java-99-problems](https://github.com/githubao/xiao-java-99-problems)  (Werner Hett 99个程序问题)
@@ -43,9 +44,9 @@
 
 ## Algorithm
 
+- [ ] [xiao-c-220-examples](https://github.com/githubao/xiao-c-220-examples)  (《C语言220实例书籍》源码)
 - [ ] [beauty-of-programming](https://github.com/githubao/beauty-of-programming)  (《编程之美》源码)
 - [ ] [xiao-algorithm](https://github.com/githubao/xiao-algorithm)  (《妙趣横生的算法-C语言实现》源码)
-- [ ] [learn-c-220-examples](https://github.com/githubao/learn-c-220-examples)  (《C语言220实例书籍》源码)
 - [ ] [learn-algorithm](https://github.com/githubao/learn-algorithm)  (一些经典算法的python实现，克隆的别人的工程)
 
 ## Other Language
