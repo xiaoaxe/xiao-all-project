@@ -29,9 +29,12 @@ head-in-js
 
 '''
 
+
 def run():
     with open('README.md', 'r', encoding='utf-8') as f:
-        data = f.read()
+        lines = f.readlines()
+
+    data = ''.join(lines)
 
     response = requests.get(url)
     repos = json.loads(response.content.decode())
@@ -41,7 +44,8 @@ def run():
         if repo_name not in data:
             print(repo_name)
 
-    print(len(repos))
+    print('remote repo len: {}'.format(len(repos)))
+    print('local file len: {}'.format(len([item for item in lines if item.startswith('-')])))
 
 
 def main():
