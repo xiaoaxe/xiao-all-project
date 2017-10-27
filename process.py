@@ -17,11 +17,16 @@ url = 'https://api.github.com/users/githubao/repos?per_page=100'
 prefix_fmt = 'https://github.com/{}'
 
 '''
-https://github.com/githubao/xiao-data-science
-https://github.com/githubao/xiao-more-designs
-https://github.com/githubao/xiao-reading
-https://github.com/githubao/xiao-refactoring
-https://github.com/githubao/xiao-streaming-java
+xiao-ml-notebook
+data-science
+
+xiao-wechat
+
+xiao-java-concurrent
+xiao-refactoring
+
+head-in-js
+
 '''
 
 def run():
@@ -35,6 +40,8 @@ def run():
 
         if repo_name not in data:
             print(repo_name)
+
+    print(len(repos))
 
 
 def main():
