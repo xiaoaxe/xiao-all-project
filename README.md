@@ -16,7 +16,7 @@
 ## Python Project
 
 - [ ] [xiao-scripts](https://github.com/githubao/xiao-scripts) (实用和常用的python脚本)
-- [ ] [xiao-wechat](https://github.com/githubao/xiao-wechat)  (微信相关的东东: 爬虫，文本分析...)
+- [x] [xiao-wechat](https://github.com/githubao/xiao-wechat)  (微信相关的东东: 爬虫，文本分析...)
 - [x] [xiao-weixin-api](https://github.com/githubao/xiao-weixin-api)  (微信网页接口)
 - [x] [xiao-python-webapp](https://github.com/githubao/xiao-python-webapp)  (异步Python搭建的博客网站)
 - [x] [xiao-awesome-zhihu](https://github.com/githubao/xiao-awesome-zhihu)  (知乎操作接口和数据爬虫)
@@ -39,8 +39,8 @@
 ## Java Language
 
 - [x] [xiao-head-spark](https://github.com/githubao/xiao-head-spark)  (java8与大数据尝试)
-- [ ] [xiao-java-concurrent](https://github.com/githubao/xiao-java-concurrent)  (java并发实现)
-- [ ] [xiao-refactoring](https://github.com/githubao/xiao-refactoring)  (《重构改善既有代码的设计》重构源码)
+- [x] [xiao-java-concurrent](https://github.com/githubao/xiao-java-concurrent)  (java并发实现)
+- [x] [xiao-refactoring](https://github.com/githubao/xiao-refactoring)  (《重构改善既有代码的设计》重构源码)
 - [x] [xiao-streaming-java](https://github.com/githubao/xiao-streaming-java)  (java8语言语法，《Java 8实战》源码)
 - [x] [xiao-java-designs](https://github.com/githubao/xiao-java-designs)  (23种设计模式学习，《head first design patterns》源码)
 - [x] [xiao-more-designs](https://github.com/githubao/xiao-more-designs)  (设计模式笔记理解)
