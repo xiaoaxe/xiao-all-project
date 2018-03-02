@@ -5,6 +5,8 @@
 - [ ] [xiao-ml-notebook](https://github.com/githubao/xiao-ml-notebook)  (机器学习的笔记整理)
 - [ ] [xiao-data-science](https://github.com/githubao/xiao-data-science)  (所有跟数据相关，《数据科学入门》一书源码)
 - [x] [xiao-advanced-ml](https://github.com/githubao/xiao-advanced-ml)  (tensorflow的学习教程)
+- [ ] [xiao-deeplearn-sec03](https://github.com/githubao/xiao-deeplearn-sec03) (udacity学院的深度学习课程)
+- [ ] [xiao-deeplearn-sec05](https://github.com/githubao/xiao-deeplearn-sec05) (<deepleariningbook>书籍阅读笔记)
 - [x] [xiao-awesome-ml](https://github.com/githubao/xiao-awesome-ml)  (所有机器学习相关messup)
 - [x] [xiao-recommend](https://github.com/githubao/xiao-recommend)  (推荐系统入门，一些简单的推荐系统的实现)
 - [x] [xiao-youtube-ml](https://github.com/githubao/xiao-youtube-ml)  (Youtube上面的机器学习视频教程)
@@ -13,6 +15,7 @@
 
 ## Python Project
 
+- [ ] [xiao-scripts](https://github.com/githubao/xiao-scripts) (实用和常用的python脚本)
 - [ ] [xiao-wechat](https://github.com/githubao/xiao-wechat)  (微信相关的东东: 爬虫，文本分析...)
 - [x] [xiao-weixin-api](https://github.com/githubao/xiao-weixin-api)  (微信网页接口)
 - [x] [xiao-python-webapp](https://github.com/githubao/xiao-python-webapp)  (异步Python搭建的博客网站)
@@ -22,6 +25,8 @@
 - [x] [xiao-weread-spider](https://github.com/githubao/xiao-weread-spider)  (微信读书app端的爬虫)
 - [x] [xiao-zhihu-spider](https://github.com/githubao/xiao-zhihu-spider)  (知乎的数据爬虫)
 - [x] [xiao-pyspark](https://github.com/githubao/xiao-pyspark)  (spark的python接口)
+- [x] [xiao-python-django](https://github.com/githubao/xiao-python-django)  (django的简单实践)
+
 
 ## Python Language
 
@@ -57,7 +62,7 @@
 - [ ] [learn-algorithm](https://github.com/githubao/learn-algorithm)  (一些经典算法的python实现，克隆的别人的工程)
 
 ## Other Language
-
+- [ ] [xiao-hello-go](https://github.com/githubao/xiao-hello-go)  (再次学习go语言)
 - [ ] [head-in-js](https://github.com/githubao/head-in-js)  (javascript，学习js的基本语法)
 - [ ] [xiao-shell](https://github.com/githubao/xiao-shell)  (Linux学习, 《Linux命令行与shell脚本编程大全》)
 - [x] [xiao-c-word2vec](https://github.com/githubao/xiao-c-word2vec)  (C语言，word2vec的源码实现)
@@ -72,7 +77,7 @@
 - [x] [xiao-weread-search](https://github.com/githubao/xiao-weread-search)  (nodejs和vuejs完成的微信读书搜索引擎)
 
 ## Resources
-
+- [ ] [books](https://github.com/githubao/books)  (计算机相关书籍)
 - [ ] [google-styleguide](https://github.com/githubao/google-styleguide)  (谷歌编码风格)
 - [ ] [xiao-learning-resources](https://github.com/githubao/xiao-learning-resources)  (所有计算机相关-1)
 - [ ] [LearningNotes](https://github.com/githubao/LearningNotes)  (所有计算机相关-2)
