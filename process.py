@@ -11,23 +11,39 @@
 
 import requests
 import json
+import re
 
 url = 'https://api.github.com/users/githubao/repos?per_page=100'
 
 prefix_fmt = 'https://github.com/{}'
 
-'''
-xiao-ml-notebook
-data-science
+url_pat = re.compile('\((https://github.com/githubao/.*?)\)')
 
-xiao-wechat
 
-xiao-java-concurrent
-xiao-refactoring
+def run2():
+    # local
+    local_set = set()
 
-head-in-js
+    with open('README.md', 'r', encoding='utf-8') as f:
+        for line in f:
+            m = url_pat.search(line)
+            if m:
+                local_set.add(m.group(1))
 
-'''
+    # server
+    server_set = set()
+
+    response = requests.get(url)
+    repos = json.loads(response.content.decode())
+    for repo in repos:
+        repo_name = prefix_fmt.format(repo['full_name'])
+        server_set.add(repo_name)
+
+    print('server repos len: {}'.format(len(repos)))
+    print('local repos len: {}'.format(len(local_set)))
+
+    diff_set = (item for item in server_set if item not in local_set)
+    print('\n'.join(diff_set))
 
 
 def run():
@@ -49,7 +65,7 @@ def run():
 
 
 def main():
-    run()
+    run2()
 
 
 if __name__ == '__main__':

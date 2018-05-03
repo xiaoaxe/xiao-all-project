@@ -49,6 +49,8 @@
 
 ## Java Spring
 
+- [x] [xiao-springboot-runner](https://github.com/githubao/xiao-springboot-runner)  (spring-boot大全，代码探索和实践)
+- [x] [smart-medical-assistant](https://github.com/githubao/smart-medical-assistant)  (spring-boot 实现的智能医疗助理的项目)
 - [x] [xiao-java-spring](https://github.com/githubao/xiao-java-spring)  (最简易的spring框架实现，学习IOC和AOP)
 - [x] [xiao-spring-messup](https://github.com/githubao/xiao-spring-messup)  (spring boot 官方文档学习)
 - [x] [xiao-spring-in-action](https://github.com/githubao/xiao-spring-in-action)  (《Spring 实战》源码)
@@ -56,12 +58,15 @@
 
 ## Algorithm
 
+- [ ] [xiao-leetcode](https://github.com/githubao/xiao-leetcode)  (leet-code刷题, src from gouthampradhan)
 - [ ] [xiao-c-220-examples](https://github.com/githubao/xiao-c-220-examples)  (《C语言220实例书籍》源码)
 - [ ] [beauty-of-programming](https://github.com/githubao/beauty-of-programming)  (《编程之美》源码)
 - [ ] [xiao-algorithm](https://github.com/githubao/xiao-algorithm)  (《妙趣横生的算法-C语言实现》源码)
 - [ ] [learn-algorithm](https://github.com/githubao/learn-algorithm)  (一些经典算法的python实现，克隆的别人的工程)
 
 ## Other Language
+
+- [x] [xiao-ruby](https://github.com/githubao/xiao-ruby)  (再次学习ruby语言)
 - [ ] [xiao-hello-go](https://github.com/githubao/xiao-hello-go)  (再次学习go语言)
 - [ ] [head-in-js](https://github.com/githubao/head-in-js)  (javascript，学习js的基本语法)
 - [ ] [xiao-shell](https://github.com/githubao/xiao-shell)  (Linux学习, 《Linux命令行与shell脚本编程大全》)
