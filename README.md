@@ -12,6 +12,7 @@
 - [x] [xiao-youtube-ml](https://github.com/githubao/xiao-youtube-ml)  (Youtube上面的机器学习视频教程)
 - [x] [xiao-tf-neuralstyle](https://github.com/githubao/xiao-tf-neuralstyle)  (使用神经网络结合内容和风格生成第三张图片)
 - [x] [xiao-python-chatbot](https://github.com/githubao/xiao-python-chatbot)  (用Python实现一个聊天机器人)
+- [x] [luigi-examples](https://github.com/githubao/luigi-examples)  (luigi简易demo)
 
 ## Python Project
 
@@ -26,7 +27,7 @@
 - [x] [xiao-zhihu-spider](https://github.com/githubao/xiao-zhihu-spider)  (知乎的数据爬虫)
 - [x] [xiao-pyspark](https://github.com/githubao/xiao-pyspark)  (spark的python接口)
 - [x] [xiao-python-django](https://github.com/githubao/xiao-python-django)  (django的简单实践)
-
+- [x] [xiao-500-lines](https://github.com/githubao/xiao-500-lines)  (500行代码实现一个功能)
 
 ## Python Language
 
@@ -40,7 +41,7 @@
 
 - [x] [xiao-head-spark](https://github.com/githubao/xiao-head-spark)  (java8与大数据尝试)
 - [x] [xiao-java-concurrent](https://github.com/githubao/xiao-java-concurrent)  (java并发实现)
-- [x] [xiao-refactoring](https://github.com/githubao/xiao-refactoring)  (《重构改善既有代码的设计》重构源码)
+- [x] [xiao-refactoring](https://github.com/githubao/xiao-refactoring)  (《重构改善既有代码的设计》源码)
 - [x] [xiao-streaming-java](https://github.com/githubao/xiao-streaming-java)  (java8语言语法，《Java 8实战》源码)
 - [x] [xiao-java-designs](https://github.com/githubao/xiao-java-designs)  (23种设计模式学习，《head first design patterns》源码)
 - [x] [xiao-more-designs](https://github.com/githubao/xiao-more-designs)  (设计模式笔记理解)
@@ -56,6 +57,11 @@
 - [x] [xiao-spring-in-action](https://github.com/githubao/xiao-spring-in-action)  (《Spring 实战》源码)
 - [x] [xiao-springcloud-first](https://github.com/githubao/xiao-springcloud-first)  (Spring Cloud 入门学习)
 
+## Go Language
+
+- [x] [xiao-goinaction](https://github.com/githubao/xiao-goinaction)  (《Go语言实战》源码)
+- [x] [xiao-golang](https://github.com/githubao/xiao-golang)  (go语言片段和一些常用法)
+
 ## Algorithm
 
 - [ ] [xiao-leetcode](https://github.com/githubao/xiao-leetcode)  (leet-code刷题, src from gouthampradhan)
@@ -67,11 +73,9 @@
 ## Other Language
 
 - [x] [xiao-ruby](https://github.com/githubao/xiao-ruby)  (再次学习ruby语言)
-- [ ] [xiao-hello-go](https://github.com/githubao/xiao-hello-go)  (再次学习go语言)
 - [ ] [head-in-js](https://github.com/githubao/head-in-js)  (javascript，学习js的基本语法)
 - [ ] [xiao-shell](https://github.com/githubao/xiao-shell)  (Linux学习, 《Linux命令行与shell脚本编程大全》)
 - [x] [xiao-c-word2vec](https://github.com/githubao/xiao-c-word2vec)  (C语言，word2vec的源码实现)
-- [x] [xiao-go-start](https://github.com/githubao/xiao-go-start)  (go，go语言最基本的语法)
 - [x] [xiao-ruby-rails](https://github.com/githubao/xiao-ruby-rails)  (ruby，使用ROR搭建的博客网站)
 - [x] [xiao-kotlin-run](https://github.com/githubao/xiao-kotlin-run)  (kotlin语言的一些新的语法学习)
 
@@ -87,6 +91,8 @@
 - [ ] [xiao-learning-resources](https://github.com/githubao/xiao-learning-resources)  (所有计算机相关-1)
 - [ ] [LearningNotes](https://github.com/githubao/LearningNotes)  (所有计算机相关-2)
 - [x] [learn-data-mining](https://github.com/githubao/learn-data-mining)  (数据挖掘资源汇总)
+- [x] [xiao-interview-problems](https://github.com/githubao/xiao-interview-problems)  (《剑指offer》源码)
+
 
 ## Stuff
 
@@ -94,4 +100,5 @@
 - [x] [xiao-all-project](https://github.com/githubao/xiao-all-project)  (我所有的GitHub工程列表)
 - [x] [xiao-reading](https://github.com/githubao/xiao-reading)  (所有读过的书籍整理)
 - [x] [xiao-coding-language](https://github.com/githubao/xiao-coding-language)  (8种最流行语言的hello-world)
-- [x] [learngit](https://github.com/githubao/learngit)  (learn git 学习)
+- [x] [first-pr](https://github.com/githubao/first-pr)  (fork&pr功能学习)
+- [x] [xiao-git](https://github.com/githubao/xiao-git)  (git协作流程)
