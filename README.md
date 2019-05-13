@@ -13,21 +13,29 @@
 - [x] [xiao-tf-neuralstyle](https://github.com/githubao/xiao-tf-neuralstyle)  (使用神经网络结合内容和风格生成第三张图片)
 - [x] [xiao-python-chatbot](https://github.com/githubao/xiao-python-chatbot)  (用Python实现一个聊天机器人)
 - [x] [luigi-examples](https://github.com/githubao/luigi-examples)  (luigi简易demo)
+- [x] [xiao-np100](https://github.com/githubao/xiao-np100)  (numpy入门的100个例子)
+- [x] [xiao-word2vec](https://github.com/githubao/xiao-word2vec)  (词向量模型)
 
 ## Python Project
 
 - [ ] [xiao-scripts](https://github.com/githubao/xiao-scripts) (实用和常用的python脚本)
-- [x] [xiao-wechat](https://github.com/githubao/xiao-wechat)  (微信相关的东东: 爬虫，文本分析...)
 - [x] [xiao-weixin-api](https://github.com/githubao/xiao-weixin-api)  (微信网页接口)
 - [x] [xiao-python-webapp](https://github.com/githubao/xiao-python-webapp)  (异步Python搭建的博客网站)
+- [x] [xiao-pyspark](https://github.com/githubao/xiao-pyspark)  (spark的python接口)
+- [x] [xiao-python-django](https://github.com/githubao/xiao-python-django)  (django的简单实践)
+- [x] [xiao-500-lines](https://github.com/githubao/xiao-500-lines)  (500行代码实现一个功能)
+- [x] [xiao-ocr](https://github.com/githubao/xiao-ocr)  (ocr识别)
+
+## Python Spider
+
+- [x] [xiao-wechat](https://github.com/githubao/xiao-wechat)  (微信相关的东东: 爬虫，文本分析...)
 - [x] [xiao-awesome-zhihu](https://github.com/githubao/xiao-awesome-zhihu)  (知乎操作接口和数据爬虫)
 - [x] [xiao-qq-finder](https://github.com/githubao/xiao-qq-finder)  (爬取QQ号码信息)
 - [x] [xiao-doutula](https://github.com/githubao/xiao-doutula)  (斗图啦网站的爬虫)
 - [x] [xiao-weread-spider](https://github.com/githubao/xiao-weread-spider)  (微信读书app端的爬虫)
 - [x] [xiao-zhihu-spider](https://github.com/githubao/xiao-zhihu-spider)  (知乎的数据爬虫)
-- [x] [xiao-pyspark](https://github.com/githubao/xiao-pyspark)  (spark的python接口)
-- [x] [xiao-python-django](https://github.com/githubao/xiao-python-django)  (django的简单实践)
-- [x] [xiao-500-lines](https://github.com/githubao/xiao-500-lines)  (500行代码实现一个功能)
+- [x] [xiao-netease-music](https://github.com/githubao/xiao-netease-music)  (网易云音乐爬虫)
+
 
 ## Python Language
 
@@ -36,6 +44,7 @@
 - [x] [xiao-python-corelib](https://github.com/githubao/xiao-python-corelib)  (《Python核心库》源码)
 - [x] [xiao-async](https://github.com/githubao/xiao-async)  (python async await 学习)
 - [x] [xiao-python-util](https://github.com/githubao/xiao-python-util)  (Python语言工具类)
+- [x] [xiao-concurrent](https://github.com/githubao/xiao-concurrent)  (Python并发工具包)
 
 ## Java Language
 
@@ -61,6 +70,13 @@
 
 - [x] [xiao-goinaction](https://github.com/githubao/xiao-goinaction)  (《Go语言实战》源码)
 - [x] [xiao-golang](https://github.com/githubao/xiao-golang)  (go语言片段和一些常用法)
+- [x] [xiao-diskq](https://github.com/githubao/xiao-diskq)  (nsq的磁盘队列实现)
+- [x] [xiao-gorepos](https://github.com/githubao/xiao-gorepos)  (golang的热门开源仓库)
+- [x] [xiao-tunny](https://github.com/githubao/xiao-tunny)  (协程池实现)
+- [ ] [xiao-gogo](https://github.com/githubao/xiao-gogo)  (常用golang语言库的使用demo)
+- [ ] [xiao-gopro](https://github.com/githubao/xiao-gopro)  (《Go程序设计语言》源码)
+- [ ] [xiao-yuedu](https://github.com/githubao/xiao-yuedu)  (电子书下载网站)
+- [ ] [xiao-gopro](https://github.com/githubao/xiao-gopro)  (《Go程序设计语言》源码)
 
 ## Algorithm
 
@@ -73,6 +89,7 @@
 ## Other Language
 
 - [x] [xiao-ruby](https://github.com/githubao/xiao-ruby)  (再次学习ruby语言)
+- [x] [xiao-lua](https://github.com/githubao/xiao-lua)  (lua语言入门，常用用法)
 - [ ] [head-in-js](https://github.com/githubao/head-in-js)  (javascript，学习js的基本语法)
 - [ ] [xiao-shell](https://github.com/githubao/xiao-shell)  (Linux学习, 《Linux命令行与shell脚本编程大全》)
 - [x] [xiao-c-word2vec](https://github.com/githubao/xiao-c-word2vec)  (C语言，word2vec的源码实现)
@@ -86,6 +103,7 @@
 - [x] [xiao-weread-search](https://github.com/githubao/xiao-weread-search)  (nodejs和vuejs完成的微信读书搜索引擎)
 
 ## Resources
+
 - [ ] [books](https://github.com/githubao/books)  (计算机相关书籍)
 - [ ] [google-styleguide](https://github.com/githubao/google-styleguide)  (谷歌编码风格)
 - [ ] [xiao-learning-resources](https://github.com/githubao/xiao-learning-resources)  (所有计算机相关-1)
@@ -93,12 +111,16 @@
 - [x] [learn-data-mining](https://github.com/githubao/learn-data-mining)  (数据挖掘资源汇总)
 - [x] [xiao-interview-problems](https://github.com/githubao/xiao-interview-problems)  (《剑指offer》源码)
 
+## Life
+
+- [x] [xiao-reading](https://github.com/githubao/xiao-reading)  (所有读过的书籍整理)
+- [x] [xiao-movie](https://github.com/githubao/xiao-movie)  (看电影)
 
 ## Stuff
 
 - [x] [xiao-helloworld](https://github.com/githubao/xiao-helloworld)  (我的第一个GitHub程序)
 - [x] [xiao-all-project](https://github.com/githubao/xiao-all-project)  (我所有的GitHub工程列表)
-- [x] [xiao-reading](https://github.com/githubao/xiao-reading)  (所有读过的书籍整理)
 - [x] [xiao-coding-language](https://github.com/githubao/xiao-coding-language)  (8种最流行语言的hello-world)
 - [x] [first-pr](https://github.com/githubao/first-pr)  (fork&pr功能学习)
 - [x] [xiao-git](https://github.com/githubao/xiao-git)  (git协作流程)
+- [x] [xiao-docker](https://github.com/githubao/xiao-docker)  (docker入门学习)

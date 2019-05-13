@@ -20,6 +20,12 @@ prefix_fmt = 'https://github.com/{}'
 url_pat = re.compile('\((https://github.com/githubao/.*?)\)')
 
 
+def get_password():
+    with open('/Users/baoqiang/Downloads/ps.txt', 'r', encoding='utf-8') as f:
+        user, password = f.read().strip().split(' ')
+        return user, password
+
+
 def run2():
     # local
     local_set = set()
@@ -33,7 +39,7 @@ def run2():
     # server
     server_set = set()
 
-    response = requests.get(url)
+    response = requests.get(url, auth=get_password())
     repos = json.loads(response.content.decode())
     for repo in repos:
         repo_name = prefix_fmt.format(repo['full_name'])
